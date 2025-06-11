@@ -73,3 +73,4 @@ if (!$LastStartup -or $CurrentVersion -ne $LastStartup.Version) {
 # Enable-AzureRmAlias
 
 # You can also define functions or aliases that can be referenced in any of your PowerShell functions.
+# Test
