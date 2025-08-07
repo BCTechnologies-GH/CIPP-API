@@ -67,7 +67,7 @@
     "Id": "5b3bb926-d107-471e-8787-3b22b0d4dbbe",
     "Command": "Start-WebhookOrchestrator",
     "Description": "Orchestrator to process webhooks",
-    "Cron": "0 */15 * * * *",
+    "Cron": "0 */30 * * * *",
     "Priority": 3,
     "RunOnProcessor": true
   },
