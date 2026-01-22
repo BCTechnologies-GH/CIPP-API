@@ -6,7 +6,7 @@
       {
         "Id": "fc946a4f-bc4d-413b-a090-b2c86113ec4f",
         "Name": "LicenseManager.AccessAsUser",
-        "Description": "Allows the application to impersonate the signed-in user when communicating with the M365 License Manager service."
+        "Description": "Allows the application to impersonate the signed-in user when communicating with the M365 License Manager service ."
       }
     ],
     "ApplicationPermissions": []
